@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Daniel\app_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Daniel\app_demo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_ca15cfafed1dea639857ce448f9a843a6c7a7bea.jar" />
+    </item>
+    <item
+        jar="D:\Daniel\app_demo\app\libs\tbs_sdk_v2.0.0.1102_36202_withoutGame_obfs_20160524_095935.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f5ceab34e31957f71acc0900d032c75536fe4e0">
+        <dex dex="D:\Daniel\app_demo\app\build\intermediates\pre-dexed\debug\tbs_sdk_v2.0.0.1102_36202_withoutGame_obfs_20160524_095935_8cbd1f3272558d98d80cede5d1f0cb3847cc597e.jar" />
+    </item>
+    <item
+        jar="D:\Daniel\app_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Daniel\app_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_b4e4377ccdf254772d658272f55f93c46ec64b0d.jar" />
+    </item>
+    <item
+        jar="D:\Daniel\app_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Daniel\app_demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_64030a781f3b01ff8ea4b24d042d91d835c1d071.jar" />
+    </item>
+    <item
+        jar="D:\Android\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Daniel\app_demo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_0354cc2569735a5f27ae2a68be807ff1d73a05f5.jar" />
+    </item>
+
+</items>

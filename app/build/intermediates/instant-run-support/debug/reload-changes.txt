@@ -1,0 +1,14 @@
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\R$layout$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\R$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\MainActivity$3$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$layout$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\MainActivity$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\WebDevelopmentTipsActivity$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\R$styleable$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\RefreshActivity$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\R$style$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\R$string$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\MainActivity$1$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\R$menu$override.class
+CHANGED,D:\Daniel\app_demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\test_webview_demo\MainActivity$2$override.class
