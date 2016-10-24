@@ -68,6 +68,7 @@ import android.widget.Toast;
 
 public class BrowserActivity extends Activity{
 	/**
+	 * 修改了一下文件  在git上面提交 看看
 	 * 作为一个浏览器的示例展示出来，采用android+web的模式
 	 */
 	private X5WebView mWebView;
